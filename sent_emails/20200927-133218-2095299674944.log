@@ -1,0 +1,14 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: Password reset on 127.0.0.1:8000
+From: webmaster@localhost
+To: tsukhada2000@gmail.com
+Date: Sun, 27 Sep 2020 08:02:18 -0000
+Message-ID: <160119373818.22488.10321476100324388249@LAPTOP-02654F97>
+
+Someone asked for password reset for email tsukhada2000@gmail.com. Follow the link below:
+
+http://127.0.0.1:8000/accounts/reset/MTA/5k9-c142c67910b4bed0a2ff/
+
+-------------------------------------------------------------------------------

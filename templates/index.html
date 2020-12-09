@@ -1,0 +1,29 @@
+{% extends "base_generic.html" %}
+<style>
+    footer {
+            left: 0;
+            padding: 10px 0;
+            background-color: rgba(0,0,0,0.5);
+            color:#ffffff;
+            bottom: 0;
+            width: 100%;
+        }
+</style>
+
+{% block content %}
+    <div class="container bg bg- black" style="font:comic sans ms">
+        <center>
+            <footer style="background-color: rgba(0,0,0,0.5);color:#ffffff; margin-bottom:5px; align:center">
+            <div class="container">
+                    <center>
+                        <h1>
+                            WELCOME {{ request.user }}!!<br>
+                        </h1>
+                    </center>
+            </div>
+        </footer>
+
+        </center>
+    </div>
+
+{% endblock %}
